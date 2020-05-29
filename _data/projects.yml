@@ -2,11 +2,12 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Aero-Plane (UIST2019)
+  role: Seungwoo Je, <b>Myung Jin Kim</b>, Woojin Lee, Byungjoo Lee, Xing-Dong Yang, Pedro Lopes, Andrea Bianchi
+  duration: 2018 &mdash; 2019
+  url: https://dl.acm.org/doi/10.1145/3332165.3347926
+  description: Aero-Plane is a handheld force-feedback device that renders weight motion illusion on a virtual 2D plane.
+    
 
 # Springfield Community Outreach Group
 - project: Springfield Community Outreach Group
